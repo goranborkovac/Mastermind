@@ -7,5 +7,8 @@ public class Aplication {
         while (!game.isGameOver()) {
             game.makeAGuess();
         }
+
+        // Git Hub upload
+
     }
 }
